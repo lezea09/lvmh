@@ -1,30 +1,30 @@
 VERSION="2.2.1"
 
 ACCOUNTS=[
-"GCMKRGDQYGHA6KCUHL3FFKTW2OEDOUBDE3KJEKFKVKZE3ICAII7TD7LF",
+"GD3OZHNMNRE7VVEAP2IPIUNBZUGL3CF7EDOZVIDC7CDXLNJ527TL3G37",
 ]
 
 [DOCUMENTATION]
-ORG_NAME="INFOSYS"
-ORG_URL="https://infosys-stellar.org/"
-ORG_DESCRIPTION="Infosys is embracing the Stellar blockchain to enhance its technology services globally, emphasizing security, efficiency, and cost reduction in cross-border transactions."
-ORG_LOGO="https://i.ibb.co/GTj3Ybj/photo-2024-04-21-02-37-47.jpg"
+ORG_NAME="LVMH"
+ORG_URL="https://lvmh-stellar.org/"
+ORG_DESCRIPTION="Empowering luxury authentication and ownership transfer on Stellar, enhancing security and exclusivity for LVMH products."
+ORG_LOGO="https://i.ibb.co/MR1Jp4W/51d0d14498ee74b896d2e017b00850e2.jpg"
 
 
 [[PRINCIPALS]]
-name="Salil Parekh"
+name="Bernard Arnault"
 
 
 [[CURRENCIES]]
-code="INFYLDG"
+code="LVMH"
 status="live"
 display_decimals=2
-issuer="GCMKRGDQYGHA6KCUHL3FFKTW2OEDOUBDE3KJEKFKVKZE3ICAII7TD7LF"
+issuer="GD3OZHNMNRE7VVEAP2IPIUNBZUGL3CF7EDOZVIDC7CDXLNJ527TL3G37"
 anchor_asset_type="crypto"
-name="InfyLedger"
-desc="The Infy Ledger token facilitates streamlined, secure transactions within Infosys' technology ecosystem, enhancing client interactions and process efficiencies."
-image="https://i.ibb.co/wLph93F/IMG-2779.png"
+name="LVMHCoin"
+desc="LVMH Coin, blending tradition with modern luxury, offers a secure and exclusive method for authenticating and owning luxury goods on a digital platform."
+image="https://i.ibb.co/YbS54RR/photo-2024-05-02-19-30-35-removebg-preview.png"
 fixed_number=10000000
 max_number=10000000
 is_unlimited=false
-#InfyLedger was issued using the open and inclusive Stellar blockchain network.
+#LVMHCoin was issued using the open and inclusive Stellar blockchain network.
