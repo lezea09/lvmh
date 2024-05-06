@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://infosys-stellar.org/"
+  to = "https://infosys.com/"
+  status = 301
+  force = true
